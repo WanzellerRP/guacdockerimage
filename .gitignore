@@ -1,0 +1,25 @@
+# Temporary directories
+temp/
+exports/
+
+# Docker image files
+*.tar
+*.tar.gz
+*.tar.7z
+*.tar.xz
+
+# Build artifacts
+target/
+.m2/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
